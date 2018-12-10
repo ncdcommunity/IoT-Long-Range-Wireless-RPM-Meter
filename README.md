@@ -1,6 +1,8 @@
 # IoT-Long-Range-Wireless-RPM-Meter
 Industrial Wireless Motor RPM/ Frequency Measurement Sensor 
 
+The sensor can be found here
+https://ncd.io/
 
 To use this UI, you will need to install following drivers Install run time engine from here 64bit http://www.ni.com/download/labview-run-time-engine-2017/6821/en/
 
